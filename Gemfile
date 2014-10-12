@@ -20,3 +20,4 @@ end
 
 gem 'foundation-rails'
 gem 'devise'
+gem 'simple_form'
